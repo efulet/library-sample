@@ -1,0 +1,11 @@
+.DS_Store
+.project
+.pydevproject
+.coverage
+.eggs
+.settings
+Project.egg-info
+__pycache__
+htmlcov
+*.log
+*.pyc
